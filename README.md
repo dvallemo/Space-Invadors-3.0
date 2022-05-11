@@ -5,7 +5,7 @@ Some changes were implemented to make the game more playableand fun to play
 
 ### Ship size
 The ship size for the last model was very big. This made the game very difficult to play and almost unfair. Matt Russo and I spent hours trying to just finish the game for the first time.
-We modified the VideoMemory file to decrease the width of the ship, but it did not work properly. We put the width back to normal, and then chnged the 1s and 0s in the same file, which visualized the general shape of the ship. Editing the shape of the shipt throught the width variable decreased the width but the ship was no longer symetrical. Changing the shape thought the 1s and 0s changed the width without affecting its general symmetry. 
+We modified the VideoMemory file to decrease the width of the ship, but it did not work properly. We put the width back to normal, and then changed the 1s and 0s in the same file, which visualized the general shape of the ship. Editing the shape of the ship throught the width variable decreased the width but the ship was no longer symetrical. Changing the shape thought the 1s and 0s changed the width without affecting its general symmetry. 
 After changing this, it was easier to win and made the game more enjoyable. 
 
 ### Ship fire rate
